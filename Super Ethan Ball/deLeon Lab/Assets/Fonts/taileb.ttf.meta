@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c7b3096898b12db49aa9b469455941db
+timeCreated: 1518737354
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft Tai Le
+  fontNames:
+  - Microsoft Tai Le
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

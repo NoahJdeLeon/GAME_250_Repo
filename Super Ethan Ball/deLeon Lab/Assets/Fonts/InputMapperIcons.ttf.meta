@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ca09fa9f1974cee41b8c9a8ffd80ec1d
+timeCreated: 1518737356
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: InputMapperIcons
+  fontNames:
+  - InputMapperIcons
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

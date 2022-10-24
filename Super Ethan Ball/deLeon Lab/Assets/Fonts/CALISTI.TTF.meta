@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d7632e75da845ff479167ca564b15899
+timeCreated: 1518737358
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calisto MT
+  fontNames:
+  - Calisto MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4bf79ff0911bab44a9ab1cb336246f9a, type: 3}
+  - {fileID: 12800000, guid: 45354ed538d61b748a5cbc77b33f1cde, type: 3}
+  - {fileID: 12800000, guid: 505e3f5bdca12354b8700361e035c3fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c7e4523d071b0347a6d9b808037ffd1
+timeCreated: 1518737159
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmpleSoundTab
+  fontNames:
+  - AmpleSoundTab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: daadfc25812c5da4ea1d258c843a3297
+timeCreated: 1518737358
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Niagara Engraved
+  fontNames:
+  - Niagara Engraved
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

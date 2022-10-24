@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8fcd98ea241d3c8469fb24da379d0468
+timeCreated: 1518737328
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Freestyle Script
+  fontNames:
+  - Freestyle Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

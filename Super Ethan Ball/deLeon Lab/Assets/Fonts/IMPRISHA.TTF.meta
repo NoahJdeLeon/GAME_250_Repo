@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6525ab4b83bbd8e498daf1bff71c9ed6
+timeCreated: 1518737162
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Imprint MT Shadow
+  fontNames:
+  - Imprint MT Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
